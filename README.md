@@ -1,6 +1,6 @@
 # 💬 Simple Chat Application
 
-A basic real-time chat application built with **Android (Java)** and **Firebase**. This project allows users to send and receive messages instantly, similar to how modern chat apps work.
+A basic real-time chat application built with **Android Studio (Kotlin)** and **Firebase**. This project allows users to send and receive messages instantly, similar to how modern chat apps work.
 
 ---
 
@@ -15,7 +15,7 @@ A basic real-time chat application built with **Android (Java)** and **Firebase*
 
 ## 🛠 Tech Stack
 
-- **Android (Java)**
+- **Android Studio (Kotlin)**
 - **Firebase Authentication**
 - **Firebase Realtime Database**
 
