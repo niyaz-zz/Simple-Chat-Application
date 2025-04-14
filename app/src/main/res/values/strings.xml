@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="name">Name</string>
+    <string name="enter_email_password">Enter Email Password</string>
+    <string name="user_not_exist">User not exist</string>
+    <string name="all_fields_required">All fields required</string>
+    <string name="signup_error">SignUp Error</string>
+    <string name="niyaj">Niyaj</string>
+    <string name="log_out">Log Out</string>
+    <string name="type_a_message">Type a Message</string>
+    <string name="send_chat">SendChat</string>
+    <string name="this_is_sent_message">This is sent message</string>
+    <string name="this_is_receive_message">this is receive message</string>
+</resources>
